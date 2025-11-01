@@ -1,2 +1,2 @@
 # WD-Project
-Developed a responsive news website with dynamic content display using HTML, CSS, and JavaScript, focusing on user-friendly design and smooth navigation.
+Designed and developed a responsive news portal using HTML, CSS, and JavaScript.Fetched live news articles dynamically through APIs for updated content.Ensured fast loading, intuitive navigation, and mobile-friendly layout.
